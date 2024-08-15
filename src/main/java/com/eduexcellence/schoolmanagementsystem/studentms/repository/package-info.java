@@ -1,0 +1,1 @@
+package com.eduexcellence.schoolmanagementsystem.studentms.repository;
